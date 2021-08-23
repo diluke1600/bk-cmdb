@@ -1,4 +1,4 @@
-module configcenter
+module github.com/diluke1600/bk-cmdb
 
 go 1.13
 
